@@ -1,0 +1,9 @@
+{
+  "name": "TNB Text",
+  "description": "A feature-rich, modern dark-themed mobile chat and calling application with WebRTC, Firebase integration, and Tone.js for real-time interaction.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
